@@ -4,6 +4,10 @@ Draw-It is a real-time collaborative drawing application that was developed with
 ## Table of Contents
 
 - [Features](#features)
+
+https://github.com/akshat99812/Draw-It/assets/138353837/f4e361af-6f5a-42b9-a6bf-177e6f361d41
+
+
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
